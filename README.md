@@ -14,12 +14,16 @@ Clone the Repository
 and type "go get" in your terminal. It will install all the packages for that.
 
 # Command to Add Sample Restaurant in MongoDB
+```bash
 ~ go run json_insert.go
+```
 
 # Command to Run
+```bash
 ~cd /restapplication
 ~go build main.go
 ~./main
+```
 
 Open the Browser and type
 
