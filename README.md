@@ -69,4 +69,4 @@ Example
 http://localhost:8080/restaurant/?postcode=123
 
 
-#You can use Postman for hitting the API's
+# You can use Postman for hitting the API's
